@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1539518917 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\svgfile.cpp
+	<iostream>
+	<sstream>
+
+1539521116 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\main.cpp
+	"interfaceSB.h"
+
+1539377858 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\sphere.cpp
+
+1539373519 c:\users\benoît\desktop\info\cpp\barycentres_exo\sphere.h
+	<math.h>
+	"svgfile.h"
+
+1539518917 c:\users\benoît\desktop\info\cpp\barycentres_exo\svgfile.h
+	<iostream>
+	<string>
+	<fstream>
+	<set>
+	<math.h>
+	<vector>
+
+1530559612 source:c:\users\benoît\desktop\info\c\projetinfov2\interface.c
+	"interface.h"
+
+1530485131 c:\users\benoît\desktop\info\c\projetinfov2\interface.h
+	"processing.h"
+
+1530485131 c:\users\benoît\desktop\info\c\projetinfov2\processing.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<limits.h>
+
+1539373519 c:\users\benoît\desktop\info\cpp\barycentres_exo\interfacecpp.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"sphere.h"
+
+1539373519 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\interfacecpp.cpp
+	"interfaceCpp.h"
+
+1539379591 c:\users\benoît\desktop\info\cpp\barycentres_exo\main.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+
+1539531246 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\interfacesb.cpp
+	"interfaceSB.h"
+
+1539531246 c:\users\benoît\desktop\info\cpp\barycentres_exo\interfacesb.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+	<limits>
+	"classSB.h"
+
+1539536634 c:\users\benoît\desktop\info\cpp\barycentres_exo\classsb.h
+	<math.h>
+	<cfloat>
+	"svgfile.h"
+
+1539536634 source:c:\users\benoît\desktop\info\cpp\barycentres_exo\classsb.cpp
+	"classSB.h"
+	"interfaceSB.h"
+
+1539564972 source:c:\users\benoît\desktop\info\cpp\versionstable - copie\classsb.cpp
+	"classSB.h"
+	"interfaceSB.h"
+
+1539564257 c:\users\benoît\desktop\info\cpp\versionstable - copie\classsb.h
+	<math.h>
+	<cfloat>
+	"svgfile.h"
+
+1539553035 c:\users\benoît\desktop\info\cpp\versionstable - copie\svgfile.h
+	<iostream>
+	<string>
+	<fstream>
+	<set>
+	<math.h>
+	<vector>
+
+1539565163 c:\users\benoît\desktop\info\cpp\versionstable - copie\interfacesb.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+	<limits>
+	"classSB.h"
+
+1539564972 source:c:\users\benoît\desktop\info\cpp\versionstable - copie\interfacesb.cpp
+	"interfaceSB.h"
+
+1539564271 source:c:\users\benoît\desktop\info\cpp\versionstable - copie\main.cpp
+	"interfaceSB.h"
+
+1539557193 source:c:\users\benoît\desktop\info\cpp\versionstable - copie\svgfile.cpp
+	"interfaceSB.h"
+	<iostream>
+	<sstream>
+
+1539569569 source:c:\users\benoît\desktop\info\cpp\montazeaud-brionne\tp5\interfacesb.cpp
+	"interfaceSB.h"
+
+1539565163 c:\users\benoît\desktop\info\cpp\montazeaud-brionne\tp5\interfacesb.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+	<limits>
+	"classSB.h"
+
+1539568006 c:\users\benoît\desktop\info\cpp\montazeaud-brionne\tp5\classsb.h
+	<math.h>
+	<cfloat>
+	"svgfile.h"
+
+1539553035 c:\users\benoît\desktop\info\cpp\montazeaud-brionne\tp5\svgfile.h
+	<iostream>
+	<string>
+	<fstream>
+	<set>
+	<math.h>
+	<vector>
+
+1539557193 source:c:\users\benoît\desktop\info\cpp\montazeaud-brionne\tp5\svgfile.cpp
+	"interfaceSB.h"
+	<iostream>
+	<sstream>
+
+1539570758 source:c:\users\benoît\desktop\info\cpp\montazeaud-brionne\tp5\main.cpp
+	"interfaceSB.h"
+
+1539706511 source:c:\users\benoît\desktop\info\cpp\montazeaud-brionne\tp5\classsb.cpp
+	"classSB.h"
+	"interfaceSB.h"
+
+1539702911 source:c:\users\benoît\desktop\info\cpp\tp5_montazeaud-brionne\tp5\classsb.cpp
+	"classSB.h"
+	"interfaceSB.h"
+
+1539564406 c:\users\benoît\desktop\info\cpp\tp5_montazeaud-brionne\tp5\classsb.h
+	<math.h>
+	<cfloat>
+	"svgfile.h"
+
+1539549435 c:\users\benoît\desktop\info\cpp\tp5_montazeaud-brionne\tp5\svgfile.h
+	<iostream>
+	<string>
+	<fstream>
+	<set>
+	<math.h>
+	<vector>
+
+1539561563 c:\users\benoît\desktop\info\cpp\tp5_montazeaud-brionne\tp5\interfacesb.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<vector>
+	<limits>
+	"classSB.h"
+
+1539565969 source:c:\users\benoît\desktop\info\cpp\tp5_montazeaud-brionne\tp5\interfacesb.cpp
+	"interfaceSB.h"
+
+1539567158 source:c:\users\benoît\desktop\info\cpp\tp5_montazeaud-brionne\tp5\main.cpp
+	"interfaceSB.h"
+
+1539553593 source:c:\users\benoît\desktop\info\cpp\tp5_montazeaud-brionne\tp5\svgfile.cpp
+	"interfaceSB.h"
+	<iostream>
+	<sstream>
+
